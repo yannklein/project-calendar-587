@@ -29,7 +29,7 @@
     },
     {
       "title": "1st Pitch",
-      "description": "4hrs of developement, 3hrs of debugging/pitch prep. and Pitch",
+      "description": "4hrs of developement, 3hrs of debugging/pitch prep. and Pitch in front of everyone",
       "important": true
     },
     {
@@ -44,7 +44,7 @@
     },
     {
       "title": " 2nd Pitch",
-      "description": "5hrs of developement, 2hrs of debugging/pitch prep. and Pitch",
+      "description": "5hrs of developement, 2hrs of debugging/pitch prep. and Pitch in front of everyone",
       "important": true
     },
     {
@@ -58,17 +58,17 @@
       "important": false
     },
     {
-      "title": "Last week Pitch",
-      "description": "4hrs of developement, 3hrs of debugging/pitch prep. and Pitch",
+      "title": "Individual Pitches",
+      "description": "7hrs of developement, teams book individual pitches with TA throughout the day",
       "important": true
     },
     {
-      "title": "Dev Evening | 3hrs",
+      "title": "Final touch Evening | 3hrs",
       "description": "3hrs of developement",
       "important": false
     },
     {
-      "title": "Dev Evening | 3hrs",
+      "title": "Final touch Evening | 3hrs",
       "description": "3hrs of developement",
       "important": false
     },
